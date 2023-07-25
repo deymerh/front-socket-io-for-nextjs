@@ -1,0 +1,1 @@
+### Frontend project to test backend project using ```socket.io``` with NestJs.
